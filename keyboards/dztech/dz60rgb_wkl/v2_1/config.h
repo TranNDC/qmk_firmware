@@ -20,6 +20,8 @@
 #define MATRIX_ROWS 5
 #define MATRIX_COLS 14
 
+#define TAPPING_TERM 230
+
 /*
  * Keyboard Matrix Assignments
  *
